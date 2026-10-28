@@ -8,7 +8,7 @@ Free font projects with downloadable files and documented sources. Each reposito
 
 [Miracle Grove](https://github.com/SalTypes/miracle-grove) is a warm soft-serif family with four weights and matching italics.
 
-It adapts Fraunces by Undercase Type, with a custom returning lowercase **l**, related character adjustments, and tabular figures.
+It adapts Fraunces by Undercase Type, with an arched **A** bridge and a returning upright **l**. Version **1.200** also refines selected letterforms and simplifies the italic **l** and **f**.
 
 [Try the specimen](https://saltypes.github.io/miracle-grove/) or [download the fonts](https://github.com/SalTypes/miracle-grove/releases/latest).
 
